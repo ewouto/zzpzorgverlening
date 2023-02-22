@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Personal website and blog
+title: RWIZ
 theme: hugo-refresh
 # theme: ../..
 
@@ -106,11 +106,11 @@ params:
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
-    title: Julia The White
+    title: René Westrik
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: René Westrik Interim Zorg
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "/images/placeholder.jpg" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -158,7 +158,7 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2021
+    copyright: René Westrik - 2023
 
 ###################################################################
 ################## multilanguage support options ##################
