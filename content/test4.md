@@ -1,5 +1,5 @@
 ---
-title: "Wat ik voor u kan doen"
+title: "contact"
 date: 2023-02-22T16:04:23+01:00
 draft: false
 showInMenu: true

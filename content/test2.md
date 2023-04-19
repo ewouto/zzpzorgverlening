@@ -1,5 +1,5 @@
 ---
-title: "Test2"
+title: "Wat ik belangrijk vind"
 date: 2023-02-22T16:04:23+01:00
 draft: false
 showInMenu: true
